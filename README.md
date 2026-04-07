@@ -82,10 +82,6 @@ class AlejandroArtunduaga:
 > - **Rol:** Arquitectura técnica, selección de modelos, requerimientos funcionales
 > - **Nota:** *Código privado — disponible para discutir enfoque y metodología en entrevista*
 
-### 🤖 `[Tu próximo proyecto aquí]`
-> Agrega aquí tu siguiente proyecto personal de IA
-> - **Stack:** ...
-> - **Impacto:** ...
 
 ---
 
