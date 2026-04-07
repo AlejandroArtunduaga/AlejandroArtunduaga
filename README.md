@@ -26,7 +26,7 @@
 
 ---
 
-## `> whoami`
+## ``
 
 ```python
 class AlejandroArtunduaga:
