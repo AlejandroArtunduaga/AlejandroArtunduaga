@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&random=false&width=500&height=50&lines=Alejandro+Artunduaga;AI+%2B+Software+Engineer" alt="header" />
@@ -104,74 +105,5 @@ drwxr-xr-x  ml-pipeline-templates/
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AlejandroArtunduaga&style=flat-square&color=1A1B27&label=views" />
-
-</div>
-
-<a href="https://github.com/AlejandroArtunduaga/proyecto-vision-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroArtunduaga&repo=NOMBRE_DE_TU_REPO_1&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/AlejandroArtunduaga/NOMBRE_DE_TU_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroArtunduaga&repo=NOMBRE_DE_TU_REPO_2&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
-
-### 🔬 `Sistema de Visión Artificial Industrial`
-> Diseño y arquitectura de un sistema de Computer Vision para reconocimiento automático de equipos en campo (proyecto privado/corporativo).
-> - **Stack:** Python · PyTorch · OpenCV · YOLO
-> - **Rol:** Arquitectura técnica, selección de modelos, requerimientos funcionales
-> - **Nota:** *Código privado — disponible para discutir enfoque y metodología en entrevista*
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
-## 🎓 Certificaciones
-
-<div align="center">
-
-![Scrum Master](https://img.shields.io/badge/Scrum_Master-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Java EE 7](https://img.shields.io/badge/Java_EE_7-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java SE 8 OCP](https://img.shields.io/badge/Java_SE_8_OCP-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
-![IBM AI Engineering](https://img.shields.io/badge/IBM_AI_Engineering-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-
-</div>
-
----
-
-## 🌱 Actualmente
-
-- 🔭 Cursando **Ingeniería de IA** con IBM Skills Network
-- 🧪 Experimentando con **LLMs**, **fine-tuning** y **RAG pipelines**
-- 📚 Profundizando en **MLOps** y despliegue de modelos en producción
-- 🤝 Abierto a colaborar en proyectos open source de **Computer Vision** y **NLP**
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-*"La IA no reemplaza al ingeniero — amplifica su capacidad de resolver problemas que antes eran imposibles."*
-
-<br/>
-
-⭐ **Si alguno de mis repos te resulta útil, un star siempre se agradece!**
 
 </div>
