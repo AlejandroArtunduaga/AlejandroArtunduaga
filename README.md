@@ -68,7 +68,7 @@ tools:
 ### `$ cat certifications.log`
 
 ```
-[2025]  IBM AI Engineering         in progress
+[2025]  IBM AI Engineering         certified
 [2023]  Scrum Master               certified
 [2023]  Java EE 7 Backend Dev      certified
 [2023]  Java SE 8 OCP              certified
