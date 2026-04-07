@@ -153,13 +153,6 @@ Status:  Active development
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AlejandroArtunduaga&show_icons=true&hide_border=true&border_radius=0&count_private=true&title_color=8892b0&icon_color=495670&text_color=495670&bg_color=0d1117&ring_color=1a1f4e" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroArtunduaga&layout=compact&hide_border=true&border_radius=0&title_color=8892b0&text_color=495670&bg_color=0d1117&langs_count=6" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AlejandroArtunduaga&hide_border=true&border_radius=0&background=0D1117&stroke=1a1f4e&ring=1a1f4e&fire=8892b0&currStreakNum=8892b0&sideNums=8892b0&currStreakLabel=495670&sideLabels=495670&dates=495670" />
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroArtunduaga&bg_color=0d1117&color=8892b0&line=1a1f4e&point=8892b0&area=true&area_color=1a1f4e&hide_border=true" width="95%"/>
