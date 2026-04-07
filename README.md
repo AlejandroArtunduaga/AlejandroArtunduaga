@@ -1,71 +1,111 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Alejandro+Artunduaga;AI+%26+Software+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&random=false&width=500&height=50&lines=Alejandro+Artunduaga;AI+%2B+Software+Engineer" alt="header" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Computer%20Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Deep%20Learning-00D4AA?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-<br/><br/>
-
-> *Ingeniero de Software & IA — Transformando datos en decisiones y modelos en impacto real.*
-
-<br/>
+```
+AI Engineer | Computer Vision | Deep Learning | MLOps
+```
 
 <a href="https://www.linkedin.com/in/alejandro-artunduaga/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:alejandroartunduaga4@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## ``
+### `$ cat about.txt`
 
-```python
-class AlejandroArtunduaga:
-    """AI & Software Engineer based in Bogotá, Colombia"""
-    
-    role      = "AI & Software Engineer"
-    education = ["Ing. Software (8° sem) — Iberoamericana",
-                 "AI Engineering — IBM Skills Network",
-                 "Tecnólogo Análisis y Desarrollo de Software — SENA"]
-    
-    interests = ["Computer Vision", "Deep Learning", "MLOps", "LLMs"]
-    
-    fun_fact  = "Antes diseñaba redes eléctricas, ahora diseño redes neuronales ⚡→🧠"
+```
+Role:       AI & Software Engineer
+Location:   Bogotá, Colombia
+Focus:      Computer Vision · Deep Learning · Neural Networks · MLOps
+Background: 8+ years leading technical teams in industrial environments
+            Now building intelligent systems that automate what humans shouldn't do manually.
 ```
 
 ---
 
-## 🧠 Stack de IA & Machine Learning
+### `$ cat stack.yml`
 
-<div align="center">
+```yaml
+ai_and_ml:
+  frameworks:    [PyTorch, TensorFlow, Keras]
+  vision:        [OpenCV, YOLO]
+  data:          [NumPy, Pandas, Scikit-Learn]
 
-| Categoría | Tecnologías |
-|:---------:|:-----------:|
-| **Frameworks DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=darkreader&logoColor=black) |
-| **Data & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| **Bases de datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) |
+languages:
+  primary:       [Python]
+  secondary:     [Java, JavaScript, C#, PHP, SQL]
 
-</div>
+databases:       [MySQL, PostgreSQL]
+
+tools:           [Git, Jira, DBeaver, Salesforce]
+
+certifications:
+  - Scrum Master
+  - Java EE 7 Back-end Server Application Development
+  - Java SE 8 Programming OCP
+  - IBM AI Engineering (in progress)
+```
 
 ---
 
-## 🚀 Proyectos Destacados
+### `$ ls projects/`
+
+```
+drwxr-xr-x  industrial-cv-system/
+drwxr-xr-x  deep-learning-lab/
+drwxr-xr-x  ml-pipeline-templates/
+```
+
+**`industrial-cv-system/`** — Designed the architecture for a production-grade Computer Vision system for automatic identification of industrial equipment in the field. Model selection, functional requirements, and technical roadmap. _Private/corporate project — methodology available to discuss._
+
+**`deep-learning-lab/`** — Personal experiments with CNNs, transfer learning, and object detection models. PyTorch-based implementations.
+
+**`ml-pipeline-templates/`** — Reusable templates for ML experiment tracking, data preprocessing, and model deployment workflows.
+
+---
+
+### `$ cat education.log`
+
+```
+[2025-present]  IBM Skills Network        AI Engineering Program
+[2022-2026]     Fund. Univ. Iberoamericana   Software Engineering (8th semester)
+[2022-2024]     SENA                      Software Analysis & Development
+```
+
+---
+
+### `$ cat status.md`
+
+```diff
++ Currently training in AI Engineering with IBM
++ Exploring LLMs, fine-tuning, and RAG architectures
++ Open to collaborate on Computer Vision and NLP projects
+```
+
+---
 
 <div align="center">
 
-<!-- REEMPLAZA los links con tus repos reales -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AlejandroArtunduaga&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true&icon_color=A9B1D6&title_color=A9B1D6&text_color=787C99&bg_color=1A1B27" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroArtunduaga&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&title_color=A9B1D6&text_color=787C99&bg_color=1A1B27&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AlejandroArtunduaga&theme=tokyonight&hide_border=true&border_radius=8&background=1A1B27&stroke=A9B1D6&ring=A9B1D6&fire=FF9E64&currStreakLabel=A9B1D6&sideLabels=787C99&sideNums=A9B1D6&dates=787C99" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AlejandroArtunduaga&style=flat-square&color=1A1B27&label=views" />
+
+</div>
 
 <a href="https://github.com/AlejandroArtunduaga/proyecto-vision-ai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroArtunduaga&repo=NOMBRE_DE_TU_REPO_1&theme=tokyonight&hide_border=true&border_radius=12" />
