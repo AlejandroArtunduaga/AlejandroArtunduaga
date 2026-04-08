@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ANIMATED HEADER - Sube este archivo como 'header.svg' a tu repo -->
-<!-- Por ahora usa capsule-render como header pro -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1f4e,100:0f3460&height=220&section=header&text=ALEJANDRO%20ARTUNDUAGA&fontSize=36&fontColor=8892b0&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Software%20Engineer&descSize=16&descColor=495670&descAlignY=55" width="100%"/>
 
 <!-- TYPING EFFECT -->
