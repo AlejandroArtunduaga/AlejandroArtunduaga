@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1f4e,100:0f3460&height=220&section=header&text=ALEJANDRO%20ARTUNDUAGA&fontSize=36&fontColor=8892b0&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Software%20Engineer&descSize=16&descColor=495670&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1f4e,100:0f3460&height=220&section=header&text=ALEJANDRO%20ARTUNDUAGA&fontSize=36&fontColor=8899b0&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Software%20Engineer&descSize=16&descColor=495670&descAlignY=55" width="100%"/>
 
 <!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=8892B0&center=true&vCenter=true&random=false&width=550&height=30&lines=%24+cat+focus.txt+%7C+Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+MLOps;%24+python+train.py+--model+yolo+--epochs+300;%24+kubectl+apply+-f+ml-pipeline.yaml;%24+torch.cuda.is_available()+%E2%86%92+True" alt="typing" />
