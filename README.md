@@ -27,10 +27,10 @@
  ║   Alejandro Artunduaga                                           ║
  ║   AI & Software Engineer — Bogota, Colombia                      ║
  ║                                                                  ║
- ║   Building production-grade computer vision systems and           ║
- ║   deep learning pipelines. 8+ years leading technical             ║
- ║   teams in industrial environments, now engineering               ║
- ║   intelligent systems that automate what humans                   ║
+ ║   Building production-grade computer vision systems and          ║
+ ║   deep learning pipelines. 8+ years leading technical            ║
+ ║   teams in industrial environments, now engineering              ║
+ ║   intelligent systems that automate what humans                  ║
  ║   shouldn't do manually.                                         ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
